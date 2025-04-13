@@ -46,7 +46,7 @@ class ActionGetWeather(Action):
             location = "Paris"  # Default location if none is provided
 
         # Get the API key from the environment variables
-        api_key = os.getenv("54c5004944237cc24050c318286621d7") # Replace with your actual API key
+        api_key = os.getenv("    ") # Replace with your actual API key
         base_url = "http://api.openweathermap.org/data/2.5/weather"
         url = f"{base_url}?q={location}&appid={api_key}"
 
