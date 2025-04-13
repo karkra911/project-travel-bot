@@ -2,7 +2,7 @@ Sure! Here's a sample README for your project, customized to highlight the key a
 
 ---
 
-# Project Travel Bot
+# Project Travel Bot - for Yoliday
 
 Welcome to the Travel Bot project! This is an AI-powered chatbot that helps users find real-time weather updates and offers a conversational experience related to travel destinations.
 
